@@ -1,6 +1,3 @@
-$ npm init
-  ...
-  package name: @SmartIndiaGamingApps/com.nexusteam.nexusloginbutton
-  ...
-  test command: exit 0
-  ...
+"publishConfig": {
+  "@SmartIndiaGamingApps:registry": "https://npm.pkg.github.com"
+}
